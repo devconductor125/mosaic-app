@@ -1,0 +1,53 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/GothamRounded-BoldItalic.otf",
+      "sha1": "b22bc26f147b55d918b79d42d0b7caa2078ffd6a"
+    },
+    {
+      "path": "src/assets/fonts/GothamRounded-BookItalic.otf",
+      "sha1": "43f46904bd5650bb407e29121570767ac76788f5"
+    },
+    {
+      "path": "src/assets/fonts/GothamRounded-LightItalic.otf",
+      "sha1": "94ea021d11a60d0e600fe1c94c6756dff5e1b3d1"
+    },
+    {
+      "path": "src/assets/fonts/GothamRounded-MediumItalic.otf",
+      "sha1": "617856af0f5fa65b1c1330646e631d07c0127d5b"
+    },
+    {
+      "path": "src/assets/fonts/GothamRoundedBold.ttf",
+      "sha1": "d0ea29ca39a93a19ff1a61dfb615869f5e6a7c45"
+    },
+    {
+      "path": "src/assets/fonts/GothamRoundedBook.ttf",
+      "sha1": "eef7adef9ae4cd0aef444d9e448608e3f4d55dbd"
+    },
+    {
+      "path": "src/assets/fonts/GothamRoundedLight.ttf",
+      "sha1": "47e547f2473a1098d0658ffd3596be265a479cbb"
+    },
+    {
+      "path": "src/assets/fonts/GothamRoundedMedium.ttf",
+      "sha1": "82de63e1cedb8743310a6dd4b31d150d3bbd9ab6"
+    },
+    {
+      "path": "src/assets/fonts/Roboto-Bold.otf",
+      "sha1": "471568c8f11d465a6c985dd3ed828c0f33e8e8f0"
+    },
+    {
+      "path": "src/assets/fonts/Roboto-Light.otf",
+      "sha1": "53423b6354d83b085ce5899653cb1364eaa046a8"
+    },
+    {
+      "path": "src/assets/fonts/Roboto-Medium.otf",
+      "sha1": "ba3fda76cff6e13c963d7f7e45401214319a4238"
+    },
+    {
+      "path": "src/assets/fonts/Roboto-Regular.otf",
+      "sha1": "617d70b4b70aa2826a3c8996648d6a6b7197997e"
+    }
+  ]
+}
